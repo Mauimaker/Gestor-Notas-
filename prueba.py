@@ -84,6 +84,6 @@ def menu():
             break
         else:
             print("Opción inválida, intente nuevamente.\n")
-
+1
 # Inicia la ejecución del programa
 menu()
