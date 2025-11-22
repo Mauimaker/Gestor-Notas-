@@ -3,6 +3,7 @@ notas = []
 
 # Función que permite agregar una nota al registro
 # Solicita nombre, valida rango de nota y la almacena
+# Función encargada de agregar una nota con validación de datos
 def agregar_nota():
     nombre = input("Ingrese nombre del alumno: ")
     try:
