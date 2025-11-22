@@ -53,6 +53,7 @@ def nota_mas_alta():
 
 # Menú principal del programa
 # Muestra opciones y ejecuta funciones según la selección
+# Menú principal donde el usuario selecciona las distintas opciones del programa
 def menu():
     while True:
         print("\n===== GESTOR DE NOTAS =====\n")
