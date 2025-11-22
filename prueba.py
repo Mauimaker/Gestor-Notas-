@@ -57,6 +57,7 @@ def nota_mas_alta():
 def menu():
     while True:
         print("\n===== GESTOR DE NOTAS =====\n")
+        print("------------------------------")
         print("1. Agregar nota")
         print("2. Listar notas")
         print("3. Promedio general")
