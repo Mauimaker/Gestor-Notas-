@@ -1,4 +1,4 @@
-# Lista donde se guardan todas las notas ingresadas
+# Programa para gestionar notas de alumnos: agregar, listar y calcular información básica.
 notas = []  
 
 # Función que permite agregar una nota al registro
