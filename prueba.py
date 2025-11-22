@@ -78,6 +78,7 @@ def menu():
         elif opcion == "5":
             nota_mas_alta()
         elif opcion == "6":
+            print("\n--- FIN DEL PROGRAMA ---")
             print("Saliendo del programa...")
             print("Programa finalizado correctamente.")
             break
